@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.items img {
+    width: 200px;
+    height: 280px;
+}
+.items .item1 {
+    border: 2px solid rgb(114, 108, 108);
+    margin-bottom: 40px;
+    width: 30%;
+    padding: 10px;
+    border-radius: 10px;
+    background-color: #eee;
+}
+#btn1 {
+  margin-left: auto;
+   
+}
+.total11 {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: flex-end;
+    width: 300px;
+    height: 300px;
+    
+}
